@@ -1,7 +1,8 @@
 # Ansible Collection - bluebanquise.filters
 
-Needs clustershell via pip.
+Needs clustershell as pip deps
 
 BlueBanquise project filters:
 
 * nodeset
+
